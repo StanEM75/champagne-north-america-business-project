@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+.python-version
+main.py
+pyproject.toml
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+.history/
+
+# Logs
+*.log
+uv.lock
+
+# System files
+.DS_Store
+Thumbs.db

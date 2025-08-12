@@ -1,0 +1,19 @@
+retailer_id,retailer_name,country,type
+R0001,WholeBev,USA,Retailer
+R0002,CityCellars,USA,Retailer
+R0003,GoldenBottle,USA,Retailer
+R0004,LiquorKing,USA,Retailer
+R0005,FineWineNYC,USA,Retailer
+R0006,CaliCorks,USA,Retailer
+R0007,TexaSpirits,USA,Retailer
+R0008,LCBO,Canada,Retailer
+R0009,SAQ,Canada,Retailer
+R0010,BC Liquor,Canada,Retailer
+R0011,MetroCellar,Canada,Retailer
+R0012,PrairieWines,Canada,Retailer
+R0013,Le Bouchon,USA,Restaurant
+R0014,Steak & Bubbles,USA,Restaurant
+R0015,Oyster House,Canada,Restaurant
+R0016,Grand Brasserie,USA,Restaurant
+R0017,The Terrace,USA,Restaurant
+R0018,Caviar & Co,USA,Restaurant

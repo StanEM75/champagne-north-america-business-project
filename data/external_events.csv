@@ -1,0 +1,33 @@
+date,country,region/state,event_name,event_type,impact_score,source
+12/31/2023,USA,,New Years Eve,holiday,0.95,public_holidays
+2023-02-14,USA,,Valentine’s Day,holiday,0.55,public_holidays
+2023-07-01,Canada,ON,,holiday,0.45,public_holidays
+2023-10-25,USA,NY,NYC Wine & Food Fest,festival,0.3,event_calendar
+2023-09-05,Canada,ON,TIFF,festival,0.4,event_calendar
+2023-02-05,USA,,Super Bowl,sport,0.35,sports
+,USA,,Thanksgiving,holiday,0.7,public_holidays
+,USA,NY,Heatwave,weather,0.1,weather_alerts
+2023-02-22,Canada,AB,Blizzard,weather,0.15,weather_alerts
+12/31/2024,USA,,New Years Eve,holiday,0.95,public_holidays
+2024-02-14,USA,,Valentine’s Day,holiday,0.55,public_holidays
+2024-07-01,Canada,ON,Canada Day,holiday,0.45,public_holidays
+2024-10-25,USA,NY,NYC Wine & Food Fest,festival,0.3,event_calendar
+2024-09-02,Canada,ON,TIFF,festival,0.4,event_calendar
+2024-02-07,USA,,Super Bowl,sport,0.35,sports
+2024-11-22,USA,,Thanksgiving,holiday,0.7,public_holidays
+,USA,QC,,weather,0.1,weather_alerts
+2024-01-24,Canada,AB,Blizzard,weather,0.15,weather_alerts
+12/31/2025,USA,,New Years Eve,holiday,0.95,public_holidays
+2025-02-14,USA,,Valentine’s Day,holiday,0.55,public_holidays
+,Canada,ON,Canada Day,holiday,0.45,public_holidays
+2025-10-25,USA,NY,NYC Wine & Food Fest,festival,0.3,event_calendar
+2025-09-05,Canada,ON,TIFF,festival,0.4,event_calendar
+2025-02-08,USA,,Super Bowl,sport,0.35,sports
+2025-11-24,USA,,Thanksgiving,holiday,0.7,public_holidays
+2025-07-14,USA,MA,Heatwave,weather,0.1,weather_alerts
+2025-01-05,Canada,AB,,weather,0.15,weather_alerts
+2025-11-24,USA,,Thanksgiving,holiday,0.7,public_holidays
+2024-01-24,Canada,AB,Blizzard,weather,0.15,weather_alerts
+2023-11-22,USA,,Thanksgiving,holiday,0.7,public_holidays
+,USA,,Valentine’s Day,holiday,0.55,public_holidays
+2025-02-08,USA,,Super Bowl,sport,0.35,sports
