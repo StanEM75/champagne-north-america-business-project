@@ -1,0 +1,217 @@
+period,region,category,top_brand,est_units
+2023-01,USA,Champagne,Royal Bubbles,672
+2023-01,USA,Prosecco,Cali Sparkle,1146
+2023-01,USA,Sparkling Wine,Cali Sparkle,1076
+2023-01,Canada,Champagne,Royal Bubbles,687
+2023-01,Canada,Prosecco,Maison Étoile,929
+2023-01,Canada,Sparkling Wine,Cali Sparkle,1039
+2023-02,USA,Champagne,Prosecco Italia,891
+2023-02,USA,Prosecco,Cali Sparkle,1192
+2023-02,USA,Sparkling Wine,Cali Sparkle,1041
+2023-02,Canada,Champagne,Royal Bubbles,638
+2023-02,Canada,Prosecco,Cali Sparkle,905
+2023-02,Canada,Sparkling Wine,Maison Étoile,1046
+2023-03,USA,Champagne,Maison Étoile,695
+2023-03,USA,Prosecco,Royal Bubbles,1106
+2023-03,USA,Sparkling Wine,Royal Bubbles,953
+2023-03,Canada,Champagne,Royal Bubbles,784
+2023-03,Canada,Prosecco,Prosecco Italia,1247
+2023-03,Canada,Sparkling Wine,Cali Sparkle,880
+2023-04,USA,Champagne,Royal Bubbles,622
+2023-04,USA,Prosecco,Royal Bubbles,926
+2023-04,USA,Sparkling Wine,Prosecco Italia,878
+2023-04,Canada,Champagne,Maison Étoile,685
+2023-04,Canada,Prosecco,Cali Sparkle,1010
+2023-04,Canada,Sparkling Wine,Cali Sparkle,1341
+2023-05,USA,Champagne,Prosecco Italia,680
+2023-05,USA,Prosecco,Cali Sparkle,1115
+2023-05,USA,Sparkling Wine,Royal Bubbles,1121
+2023-05,Canada,Champagne,Cali Sparkle,511
+2023-05,Canada,Prosecco,Maison Étoile,997
+2023-05,Canada,Sparkling Wine,Cali Sparkle,849
+2023-06,USA,Champagne,Royal Bubbles,469
+2023-06,USA,Prosecco,Royal Bubbles,1007
+2023-06,USA,Sparkling Wine,Prosecco Italia,1089
+2023-06,Canada,Champagne,Royal Bubbles,681
+2023-06,Canada,Prosecco,Cali Sparkle,832
+2023-06,Canada,Sparkling Wine,Prosecco Italia,982
+2023-07,USA,Champagne,Maison Étoile,654
+2023-07,USA,Prosecco,Maison Étoile,863
+2023-07,USA,Sparkling Wine,Maison Étoile,980
+2023-07,Canada,Champagne,Prosecco Italia,693
+2023-07,Canada,Prosecco,Cali Sparkle,937
+2023-07,Canada,Sparkling Wine,Prosecco Italia,1014
+2023-08,USA,Champagne,Prosecco Italia,648
+2023-08,USA,Prosecco,Cali Sparkle,956
+2023-08,USA,Sparkling Wine,Royal Bubbles,904
+2023-08,Canada,Champagne,Royal Bubbles,682
+2023-08,Canada,Prosecco,Maison Étoile,963
+2023-08,Canada,Sparkling Wine,Prosecco Italia,1238
+2023-09,USA,Champagne,Royal Bubbles,891
+2023-09,USA,Prosecco,Maison Étoile,916
+2023-09,USA,Sparkling Wine,Maison Étoile,1245
+2023-09,Canada,Champagne,Prosecco Italia,907
+2023-09,Canada,Prosecco,Cali Sparkle,1028
+2023-09,Canada,Sparkling Wine,Maison Étoile,1087
+2023-10,USA,Champagne,Prosecco Italia,902
+2023-10,USA,Prosecco,Prosecco Italia,1086
+2023-10,USA,Sparkling Wine,Prosecco Italia,868
+2023-10,Canada,Champagne,Maison Étoile,678
+2023-10,Canada,Prosecco,Maison Étoile,1042
+2023-10,Canada,Sparkling Wine,Maison Étoile,1102
+2023-11,USA,Champagne,Prosecco Italia,722
+2023-11,USA,Prosecco,Maison Étoile,836
+2023-11,USA,Sparkling Wine,Royal Bubbles,1143
+2023-11,Canada,Champagne,Prosecco Italia,892
+2023-11,Canada,Prosecco,Royal Bubbles,1071
+2023-11,Canada,Sparkling Wine,Royal Bubbles,976
+2023-12,USA,Champagne,Cali Sparkle,684
+2023-12,USA,Prosecco,Royal Bubbles,1018
+2023-12,USA,Sparkling Wine,Prosecco Italia,824
+2023-12,Canada,Champagne,Royal Bubbles,734
+2023-12,Canada,Prosecco,Prosecco Italia,1135
+2023-12,Canada,Sparkling Wine,Prosecco Italia,1072
+2024-01,USA,Champagne,Royal Bubbles,639
+2024-01,USA,Prosecco,Royal Bubbles,1059
+2024-01,USA,Sparkling Wine,Maison Étoile,930
+2024-01,Canada,Champagne,Maison Étoile,635
+2024-01,Canada,Prosecco,Cali Sparkle,891
+2024-01,Canada,Sparkling Wine,Royal Bubbles,916
+2024-02,USA,Champagne,Royal Bubbles,736
+2024-02,USA,Prosecco,Maison Étoile,1070
+2024-02,USA,Sparkling Wine,Maison Étoile,1001
+2024-02,Canada,Champagne,Royal Bubbles,907
+2024-02,Canada,Prosecco,Royal Bubbles,852
+2024-02,Canada,Sparkling Wine,Royal Bubbles,948
+2024-03,USA,Champagne,Cali Sparkle,642
+2024-03,USA,Prosecco,Cali Sparkle,1190
+2024-03,USA,Sparkling Wine,Maison Étoile,1149
+2024-03,Canada,Champagne,Royal Bubbles,762
+2024-03,Canada,Prosecco,Maison Étoile,911
+2024-03,Canada,Sparkling Wine,Cali Sparkle,1142
+2024-04,USA,Champagne,Royal Bubbles,563
+2024-04,USA,Prosecco,Cali Sparkle,1048
+2024-04,USA,Sparkling Wine,Cali Sparkle,1087
+2024-04,Canada,Champagne,Cali Sparkle,845
+2024-04,Canada,Prosecco,Maison Étoile,737
+2024-04,Canada,Sparkling Wine,Maison Étoile,1196
+2024-05,USA,Champagne,Royal Bubbles,727
+2024-05,USA,Prosecco,Maison Étoile,1086
+2024-05,USA,Sparkling Wine,Prosecco Italia,923
+2024-05,Canada,Champagne,Maison Étoile,718
+2024-05,Canada,Prosecco,Prosecco Italia,867
+2024-05,Canada,Sparkling Wine,Prosecco Italia,993
+2024-06,USA,Champagne,Prosecco Italia,710
+2024-06,USA,Prosecco,Royal Bubbles,854
+2024-06,USA,Sparkling Wine,Cali Sparkle,913
+2024-06,Canada,Champagne,Royal Bubbles,696
+2024-06,Canada,Prosecco,Maison Étoile,1095
+2024-06,Canada,Sparkling Wine,Cali Sparkle,1067
+2024-07,USA,Champagne,Maison Étoile,776
+2024-07,USA,Prosecco,Cali Sparkle,784
+2024-07,USA,Sparkling Wine,Maison Étoile,1257
+2024-07,Canada,Champagne,Cali Sparkle,467
+2024-07,Canada,Prosecco,Cali Sparkle,1070
+2024-07,Canada,Sparkling Wine,Royal Bubbles,1139
+2024-08,USA,Champagne,Cali Sparkle,540
+2024-08,USA,Prosecco,Cali Sparkle,1055
+2024-08,USA,Sparkling Wine,Prosecco Italia,1106
+2024-08,Canada,Champagne,Prosecco Italia,460
+2024-08,Canada,Prosecco,Cali Sparkle,953
+2024-08,Canada,Sparkling Wine,Royal Bubbles,1171
+2024-09,USA,Champagne,Prosecco Italia,530
+2024-09,USA,Prosecco,Royal Bubbles,1016
+2024-09,USA,Sparkling Wine,Prosecco Italia,1021
+2024-09,Canada,Champagne,Prosecco Italia,782
+2024-09,Canada,Prosecco,Maison Étoile,1001
+2024-09,Canada,Sparkling Wine,Maison Étoile,994
+2024-10,USA,Champagne,Prosecco Italia,938
+2024-10,USA,Prosecco,Maison Étoile,962
+2024-10,USA,Sparkling Wine,Cali Sparkle,986
+2024-10,Canada,Champagne,Prosecco Italia,724
+2024-10,Canada,Prosecco,Maison Étoile,916
+2024-10,Canada,Sparkling Wine,Maison Étoile,795
+2024-11,USA,Champagne,Royal Bubbles,910
+2024-11,USA,Prosecco,Prosecco Italia,1084
+2024-11,USA,Sparkling Wine,Maison Étoile,1203
+2024-11,Canada,Champagne,Prosecco Italia,976
+2024-11,Canada,Prosecco,Cali Sparkle,921
+2024-11,Canada,Sparkling Wine,Maison Étoile,887
+2024-12,USA,Champagne,Prosecco Italia,694
+2024-12,USA,Prosecco,Cali Sparkle,986
+2024-12,USA,Sparkling Wine,Prosecco Italia,1099
+2024-12,Canada,Champagne,Cali Sparkle,685
+2024-12,Canada,Prosecco,Cali Sparkle,1269
+2024-12,Canada,Sparkling Wine,Cali Sparkle,1136
+2025-01,USA,Champagne,Maison Étoile,588
+2025-01,USA,Prosecco,Maison Étoile,1113
+2025-01,USA,Sparkling Wine,Royal Bubbles,1139
+2025-01,Canada,Champagne,Maison Étoile,750
+2025-01,Canada,Prosecco,Maison Étoile,863
+2025-01,Canada,Sparkling Wine,Maison Étoile,1084
+2025-02,USA,Champagne,Cali Sparkle,627
+2025-02,USA,Prosecco,Royal Bubbles,819
+2025-02,USA,Sparkling Wine,Maison Étoile,900
+2025-02,Canada,Champagne,Cali Sparkle,565
+2025-02,Canada,Prosecco,Cali Sparkle,1259
+2025-02,Canada,Sparkling Wine,Maison Étoile,1189
+2025-03,USA,Champagne,Cali Sparkle,672
+2025-03,USA,Prosecco,Cali Sparkle,1113
+2025-03,USA,Sparkling Wine,Maison Étoile,1003
+2025-03,Canada,Champagne,Prosecco Italia,650
+2025-03,Canada,Prosecco,Cali Sparkle,1013
+2025-03,Canada,Sparkling Wine,Royal Bubbles,986
+2025-04,USA,Champagne,Cali Sparkle,714
+2025-04,USA,Prosecco,Cali Sparkle,712
+2025-04,USA,Sparkling Wine,Prosecco Italia,964
+2025-04,Canada,Champagne,Maison Étoile,767
+2025-04,Canada,Prosecco,Maison Étoile,800
+2025-04,Canada,Sparkling Wine,Prosecco Italia,932
+2025-05,USA,Champagne,Royal Bubbles,722
+2025-05,USA,Prosecco,Cali Sparkle,1154
+2025-05,USA,Sparkling Wine,Prosecco Italia,1108
+2025-05,Canada,Champagne,Cali Sparkle,527
+2025-05,Canada,Prosecco,Prosecco Italia,899
+2025-05,Canada,Sparkling Wine,Royal Bubbles,1153
+2025-06,USA,Champagne,Cali Sparkle,831
+2025-06,USA,Prosecco,Maison Étoile,1000
+2025-06,USA,Sparkling Wine,Cali Sparkle,1011
+2025-06,Canada,Champagne,Maison Étoile,770
+2025-06,Canada,Prosecco,Maison Étoile,977
+2025-06,Canada,Sparkling Wine,Royal Bubbles,1159
+2025-07,USA,Champagne,Prosecco Italia,740
+2025-07,USA,Prosecco,Prosecco Italia,1018
+2025-07,USA,Sparkling Wine,Royal Bubbles,1090
+2025-07,Canada,Champagne,Maison Étoile,826
+2025-07,Canada,Prosecco,Maison Étoile,938
+2025-07,Canada,Sparkling Wine,Maison Étoile,1239
+2025-08,USA,Champagne,Maison Étoile,654
+2025-08,USA,Prosecco,Prosecco Italia,1048
+2025-08,USA,Sparkling Wine,Prosecco Italia,820
+2025-08,Canada,Champagne,Cali Sparkle,571
+2025-08,Canada,Prosecco,Cali Sparkle,937
+2025-08,Canada,Sparkling Wine,Cali Sparkle,985
+2025-09,USA,Champagne,Prosecco Italia,611
+2025-09,USA,Prosecco,Maison Étoile,957
+2025-09,USA,Sparkling Wine,Prosecco Italia,998
+2025-09,Canada,Champagne,Prosecco Italia,714
+2025-09,Canada,Prosecco,Cali Sparkle,951
+2025-09,Canada,Sparkling Wine,Royal Bubbles,864
+2025-10,USA,Champagne,Prosecco Italia,713
+2025-10,USA,Prosecco,Cali Sparkle,1202
+2025-10,USA,Sparkling Wine,Prosecco Italia,1058
+2025-10,Canada,Champagne,Royal Bubbles,683
+2025-10,Canada,Prosecco,Prosecco Italia,808
+2025-10,Canada,Sparkling Wine,Royal Bubbles,784
+2025-11,USA,Champagne,Royal Bubbles,966
+2025-11,USA,Prosecco,Maison Étoile,1041
+2025-11,USA,Sparkling Wine,Cali Sparkle,1266
+2025-11,Canada,Champagne,Prosecco Italia,834
+2025-11,Canada,Prosecco,Prosecco Italia,919
+2025-11,Canada,Sparkling Wine,Maison Étoile,993
+2025-12,USA,Champagne,Prosecco Italia,841
+2025-12,USA,Prosecco,Cali Sparkle,1115
+2025-12,USA,Sparkling Wine,Cali Sparkle,1247
+2025-12,Canada,Champagne,Maison Étoile,641
+2025-12,Canada,Prosecco,Royal Bubbles,1036
+2025-12,Canada,Sparkling Wine,Maison Étoile,851

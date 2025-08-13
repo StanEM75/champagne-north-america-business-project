@@ -14,7 +14,7 @@
 
 ## 🎯 Objectives
 
-**Improve data collection**
+**Ensure accurate and timely data collection to inform strategic decisions**
 • Establish agreements with distributors to obtain detailed sales data (transactions, volumes, prices, promotions), either through payment or service exchange
 • Define and apply data quality tests (primary key uniqueness, formats, missing values, consistency)
 • Ingest data into a centralized system and implement a documented transformation pipeline
@@ -49,26 +49,26 @@
 • Sales volume on the market
 >> Dimensions: Product categories, products
 
-**Analyze logistics data to reduce costs**
-• Fixed costs per step
-• Variable costs per step
+**Analyze logistics data to reduce costs**. 
+• Fixed costs per step. 
+• Variable costs per step. 
 
 ## 💽 Required data
 
-**Sales data from distributors at the individual transaction level if possible, or at least daily sales per product**
-• *data/sales_distributors.csv*
-• *data/distributors.csv*
-• *data/product_catalog.csv*
-• *data/retailers.csv*
+**Sales data from distributors at the individual transaction level if possible, or at least daily sales per product**. 
+• *data/sales_distributors.csv*. 
+• *data/distributors.csv*. 
+• *data/product_catalog.csv*. 
+• *data/retailers.csv*. 
 
-**Promotion data from distributors at the individual promotion level, with associated products and promotion periods**
-• *data/promotions.csv*
+**Promotion data from distributors at the individual promotion level, with associated products and promotion periods**. 
+• *data/promotions.csv*. 
 
-**External data on events driving sales in North America**
-• *data/external_events.csv*
+**External data on events driving sales in North America**. 
+• *data/external_events.csv*. 
 
-**External data on the most popular products in the North American spirits/wines/champagnes market, ideally segmented by country and state**
-• *data/market_top_sellers_proxy.csv*
+**External data on the most popular products in the North American spirits/wines/champagnes market, ideally segmented by country and state**. 
+• *data/market_top_sellers_proxy.csv*. 
 
-**Logistics data from logistics partners, including transport steps and associated costs**
-• *data/logistics_costs.csv*
+**Logistics data from logistics partners, including transport steps and associated costs**. 
+• *data/logistics_costs.csv*. 

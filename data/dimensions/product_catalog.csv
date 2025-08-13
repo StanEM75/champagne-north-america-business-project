@@ -1,0 +1,22 @@
+sku,brand,cuvée,bottle_size_ml,category,upc,list_price_usd,list_price_cad,launch_date
+CH-01-375,Maison Étoile,Brut Tradition,375,Champagne,800000000000,36.48,47.88,2020-05-08
+CH-01-750,Maison Étoile,Brut Tradition,750,Champagne,800000000001,61.41,83.8,2024-01-18
+CH-01-1500,Maison Étoile,Brut Tradition,1500,Champagne,800000000002,130.83,174.71,2015-09-02
+CH-02-375,Maison Étoile,Brut Rosé,375,Champagne,800000000100,33.54,44.6,2015-09-02
+CH-02-750,Maison Étoile,Brut Rosé,750,Champagne,800000000101,58.58,78.41,2024-07-16
+CH-02-1500,Maison Étoile,Brut Rosé,1500,Champagne,800000000102,128.28,167.48,2015-03-06
+CH-03-375,Maison Étoile,Blanc de Blancs,375,Champagne,800000000200,27.67,37.73,2016-08-27
+CH-03-750,Maison Étoile,Blanc de Blancs,750,Champagne,800000000201,60.66,78.53,2020-08-06
+CH-03-1500,Maison Étoile,Blanc de Blancs,1500,Champagne,800000000202,137.67,182.51,2010-06-30
+CH-04-375,Maison Étoile,Vintage 2014,375,Champagne,800000000300,36.24,49.5,2011-12-22
+CH-04-750,Maison Étoile,Vintage 2014,750,Champagne,800000000301,58.19,76.22,2014-09-07
+CH-04-1500,Maison Étoile,Vintage 2014,1500,Champagne,800000000302,132.33,172.47,2020-08-06
+CH-05-375,Maison Étoile,Vintage 2016,375,Champagne,800000000400,33.39,44.06,2013-03-16
+CH-05-750,Maison Étoile,Vintage 2016,750,Champagne,800000000401,56.41,73.64,2010-09-28
+CH-05-1500,Maison Étoile,Vintage 2016,1500,Champagne,800000000402,130.62,168.49,2020-02-08
+CH-06-375,Maison Étoile,Demi-sec,375,Champagne,800000000500,33.61,44.49,2014-03-11
+CH-06-750,Maison Étoile,Demi-sec,750,Champagne,800000000501,60.65,81.82,2021-08-01
+CH-06-1500,Maison Étoile,Demi-sec,1500,Champagne,800000000502,132.23,170.87,2024-07-16
+CH-07-375,Maison Étoile,Extra Brut,375,Champagne,800000000600,34.64,45.13,2013-09-12
+CH-07-750,Maison Étoile,Extra Brut,750,Champagne,800000000601,60.78,83.51,2015-09-02
+CH-07-1500,Maison Étoile,Extra Brut,1500,Champagne,800000000602,125.95,164.49,2024-07-16
