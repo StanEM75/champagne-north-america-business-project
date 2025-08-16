@@ -22,7 +22,11 @@ FROM
 
 SELECT 
     CAST(date AS Date) AS date,
-    CAST(country AS String) AS country,
-    CAST(region AS String) AS region 
+    CAST(country AS VARCHAR) AS country,
+    CAST(region AS VARCHAR) AS region,
+    CAST(event_type AS VARCHAR) AS event_type,
+    CAST(event_name AS VARCHAR) AS event_name,
+    CAST(impact_score AS float) AS impact_score,
+    CAST(source AS VARCHAR) AS source
 FROM 
     external_events_with_null_values_filled

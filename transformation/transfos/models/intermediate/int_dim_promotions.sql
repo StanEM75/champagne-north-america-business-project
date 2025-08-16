@@ -1,4 +1,4 @@
--- Transform the external_events table
+-- Transform the promotions table
 SELECT 
     date,
     country,
