@@ -148,7 +148,6 @@ sources:
             description: Context of the promotion and description.
 
       - name: sales
-        identifier: sales_distributors 
         description: Raw data containing all the sales of Maison Étoile in 2023 and 2024, in North America only.
         columns:
           - name: date 
@@ -160,7 +159,6 @@ sources:
               - accepted_values:
                   values:
                     ['USA', 'Canada']
-                    description: "We monitor only these two countries."
           - name: state_province
             description: State where the customer made the sale. If physical sale, location of the store. If online sale, residency of the customer.
           - name: distributor_id 
@@ -174,7 +172,7 @@ sources:
           - name: retailer_id
             description: ID of the retailer associated with the sale.
           - name: SKU
-            description: "SKU of the product that was sold. Useful to identify the product sold."
+            description: SKU of the product that was sold. Useful to identify the product sold.
             tests: 
             - not_null:
                 description: "The SKU can't be null as it would prevent us from identifying the product sold."
