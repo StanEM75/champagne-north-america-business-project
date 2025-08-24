@@ -1,5 +1,6 @@
 -- Transform the sales table
 SELECT 
+        transaction_date,
         transaction_id,
         -- transaction_country, -- We already have the information through the int_dim_retailers table linked to this table by retailer_id
         -- transaction_state_province, -- We already have the information through the int_dim_retailers table linked to this table by retailer_id
