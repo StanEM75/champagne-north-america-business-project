@@ -24,18 +24,18 @@ As a result, the company faces disappointing financial performance and struggles
 
 --> Check *documentation/Business_Objectives.md* for more information.
 
-## 💽 Data. 
+## 💽 Raw Data. 
 
 **Facts**. 
-• *data/sales_distributors.csv*. 
-• *data/logistics_costs.csv*. 
+- *data/sales_distributors.csv*: Sales in 2023 and 2024 in the USA and in Canada.
+- *data/logistics_costs.csv*: Not treated yet.
 
 **Dimensions**
-• *data/distributors.csv*. 
-• *data/product_catalog.csv*. 
-• *data/retailers.csv*. 
-• *data/promotions.csv*. 
-• *data/external_events.csv*. 
-• *data/market_top_sellers_proxy.csv*. 
+- *data/distributors.csv*: The 4 partner distributors in North America for the company.
+- *data/product_catalog.csv*: All the products offered in North America by the brand.
+- *data/retailers.csv*.: The retailers offering the brand's products in North America.
+- *data/promotions.csv*: All the promotions related to the brand's products in 2023 and 2024 in North America.
+- *data/external_events.csv*: All the events that affected champagne sales in North America.
+- *data/market_top_sellers_proxy.csv*: The brand who sold the highest quantity of champagne bottles or related products in North America in 2023 and 2024.
 
 ## Solution. 
