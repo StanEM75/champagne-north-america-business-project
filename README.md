@@ -1,4 +1,7 @@
 # champagne-north-america-business-project. 
+
+![Project Image](https://img-3.journaldesfemmes.fr/3B37Y-OvZSFN2LzQvhmANAakuMk=/1500x/smart/b127cd46868e4e0bac10211eaba038cc/ccmcms-jdf/27988869.jpg)
+
 This project is a simulation in which I deliver actionable insights to boost champagne sales in North America through data-driven market adaptation.
 
 ---
