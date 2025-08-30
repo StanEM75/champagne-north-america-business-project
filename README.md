@@ -38,7 +38,7 @@ As a result, the company faces disappointing financial performance and struggles
 - *data/product_catalog.csv*: All the products offered in North America by the brand.
 - *data/retailers.csv*.: The retailers offering the brand's products in North America.
 - *data/promotions.csv*: All the promotions related to the brand's products in 2023 and 2024 in North America.
-- *data/external_events.csv*: All the events that affected champagne sales in North America.
+- *data/external_events.csv*: All the events that affected champagne sales in North America (all brands included).
 - *data/market_top_sellers_proxy.csv*: The brand who sold the highest quantity of champagne bottles or related products in North America in 2023 and 2024.
 
 ## Solution. 
