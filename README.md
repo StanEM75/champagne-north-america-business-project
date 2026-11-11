@@ -1,46 +1,97 @@
-# champagne-north-america-business-project. 
+# Champagne North America — Business Analytics
 
 ![Project Image](https://img-3.journaldesfemmes.fr/3B37Y-OvZSFN2LzQvhmANAakuMk=/1500x/smart/b127cd46868e4e0bac10211eaba038cc/ccmcms-jdf/27988869.jpg)
 
-This project is a simulation in which I deliver actionable insights to boost champagne sales in North America through data-driven market adaptation.
+## Overview
 
----
+Simulate a business analytics project for a French champagne retailer expanding into North America. Build a data transformation pipeline to analyze sales performance, identify seasonal opportunities, and support market adaptation in the United States and Canada.
 
-## 🍾 Context. 
 
-**Company**: French champagne retailer, new to the North American market
-**Market**: North America (USA & Canada)
-**Main purpose**: Help the company adapt its product offering to this new market
+## Tech Stack
 
-The firm is only partially integrated into the North American business ecosystem, which puts it in a weak position when negotiating with distributors. This limits its ability to fully leverage the potential of its products with local consumers.
+| Technology | Purpose |
+|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Data exploration, profiling and processing |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | Data manipulation and exploratory analysis |
+| ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) | Cloud data warehouse for SQL transformations |
+| ![dbt](https://img.shields.io/badge/dbt-FB542B?style=flat&logo=dbt&logoColor=white) | Data transformation, modeling and quality tests |
+| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | Exploratory data analysis |
+| ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) | Automated Python tests |
 
-As a result, the company faces disappointing financial performance and struggles to collect reliable, actionable data to improve the situation. The market is highly competitive, and without a clear understanding of the best moments to sell or the competitive product offering, the company’s position is unlikely to improve.
+## Business Context
 
---> You can check *documentation/Interview_Questions.md* for more information.
+A French champagne retailer is expanding into the United States and Canada but faces several challenges:
 
-## Objectives. 
+- Limited visibility into sales performance across distributors.
+- Incomplete and inconsistent commercial data.
+- Limited understanding of local consumer preferences and seasonal demand.
+- Logistics costs and distribution constraints affecting profitability.
 
-- **Ensure accurate and timely data collection to inform strategic decisions**
-- **Identify sales seasonality and events that leverage turnover**
+The objective is to use data analytics to identify opportunities for improving sales performance and adapting the product offering to North American markets.
 
---> Check *documentation/Business_Objectives.md* for more information.
+## Business Objectives
 
-## KPIs to monitor. 
+- **Sales performance:** Analyze sales trends across products, distributors and markets.
+- **Seasonality:** Identify recurring events and periods associated with higher demand.
+- **Market adaptation:** Understand product preferences and competitor trends.
+- **Data quality:** Standardize fragmented datasets and improve data reliability.
+- **Logistics:** Explore cost drivers and opportunities for supply chain optimization.
 
-- **Turnover** --> Granularity = Month to find an existing seasonality.
+## Data Sources
 
-## 💽 Raw Data. 
+The project uses synthetic datasets representing a champagne retailer operating in North America.
 
-**Facts**. 
-- *data/sales_distributors.csv*: Sales in 2023 and 2024 in the USA and in Canada.
-- *data/logistics_costs.csv*: Not treated yet.
+| Dataset | Purpose |
+|---|---|
+| **Sales** | Historical transactions across the United States and Canada (2023–2024) |
+| **Product Catalog** | Champagne products, categories and pricing |
+| **Distributors & Retailers** | North American distribution network |
+| **Promotions** | Historical promotional campaigns |
+| **External Events** | Holidays, festivals and events potentially influencing demand |
+| **Market Top Sellers** | Proxy data describing competing products and market trends |
+| **Logistics Costs** | Transportation, storage and import-related expenses |
 
-**Dimensions**
-- *data/distributors.csv*: The 4 partner distributors in North America for the company.
-- *data/product_catalog.csv*: All the products offered in North America by the brand.
-- *data/retailers.csv*.: The retailers offering the brand's products in North America.
-- *data/promotions.csv*: All the promotions related to the brand's products in 2023 and 2024 in North America.
-- *data/external_events.csv*: All the events that affected champagne sales in North America (all brands included).
-- *data/market_top_sellers_proxy.csv*: The brand who sold the highest quantity of champagne bottles or related products in North America in 2023 and 2024.
+## Data Pipeline Architecture
 
-## Solution. 
+The project follows three main steps:
+
+### 1. Data Exploration
+
+- Explore datasets using Python, Pandas and Jupyter notebooks.
+- Identify missing values, duplicates and inconsistent formats.
+- Examine sales, product, distributor and external event data.
+
+### 2. Data Transformation
+
+- Use dbt to build SQL transformation models in Snowflake.
+- Organize data into raw, intermediate and marts layers.
+- Standardize data formats, remove duplicates and handle missing values.
+- Apply dbt data quality tests, including uniqueness, non-null constraints and accepted values.
+
+### 3. Business Analysis
+
+- Analyze seasonal patterns in North American champagne sales.
+- Identify events with high estimated sales impact.
+- Explore product and competitor information to support business decisions.
+
+## Data Modeling
+
+The dbt project is organized into three layers:
+
+| Layer | Purpose |
+|---|---|
+| **Raw** | Define and expose source datasets |
+| **Intermediate** | Clean, standardize and transform business data |
+| **Marts** | Produce analytical datasets for business reporting |
+
+## Project Structure
+
+- [`documentation/`](documentation/) — Business context, objectives and interview questions.
+- [`exploration/notebooks/`](exploration/notebooks/) — Exploratory data analysis.
+- [`exploration/data/`](exploration/data/) — Synthetic business datasets.
+- [`exploration/packages/`](exploration/packages/) — Python utilities.
+- [`exploration/tests/`](exploration/tests/) — Automated data exploration tests.
+- [`transformation/transfos/models/`](transformation/transfos/models/) — dbt SQL transformation models.
+- [`transformation/transfos/macros/`](transformation/transfos/macros/) — Reusable SQL macros.
+
+*Personal project focused on analytics engineering, dbt, data quality and business intelligence in the North American market.*
